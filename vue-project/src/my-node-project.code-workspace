@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "D:/project/my-node-project"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../huiyanshiliu/front"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vue-project"
+	}
+}
